@@ -1,6 +1,6 @@
 # Video_Game_Sales
 Retail sales analysis project for MSIB using Google Colab and Looker Studio
-# 🛍️ Retail Sales Analysis – MSIB Project
+# 🛍️ Video Game Sales Analysis – MSIB Project
 
 Proyek ini dibuat dalam program MSIB untuk menganalisis data penjualan video games. Tujuan dari proyek ini adalah menganalisis data ini untuk mengidentifikasi penyebab penurunan penjualan video game secara global dalam tiga tahun terakhir. Kami memilih menganalisis permasalahan ini karena tahun tersebut merupakan puncak penurunan terendah sepanjang sejarah. Kami berharap hasil analisa kami dapat menyelesaikan permasalahan yang terjadi dan memberikan solusi. agar permasalahan penurunan serupa tidak terjadi lagi
 
